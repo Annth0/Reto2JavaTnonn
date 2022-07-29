@@ -173,3 +173,17 @@ public class PrecioTotal {
         System.out.print("La suma del precio de los computadores portátiles es de " + totalComputadoresPortatiles);
     }
 }
+
+
+//
+//Computadores computadores[] = new Computadores[6];
+//computadores[0] = new Computadores(150.0, 70, 'A');
+//computadores[1] = new ComputadoresMesa(70.0, 40);
+//\tcomputadores[2] = new ComputadoresPortatiles(600.0, 70, 'D', 50, false);
+//\tcomputadores[3] = new Computadores();
+//\tcomputadores[4] = new Computadores(500.0, 60, 'A');
+//\tcomputadores[5] = new Computadores(700.0, 50, 'D');
+//\tPrecioTotal solucion1 = new PrecioTotal(computadores);
+//\tsolucion1.mostrarTotales();
+//\tSystem.out.println();
+
